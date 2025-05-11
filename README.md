@@ -4,7 +4,7 @@
 
 
 
-**A 1.8.9 Minecraft Forge mod that helps with secrets in dungeons**
+**A 1.8.9 Minecraft Forge mod that helps with Terminals in dungeons**
 </div>
 
 ## Download
