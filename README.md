@@ -1,6 +1,6 @@
 <div align="center">
 
-# PianoHelperV2
+# Cyan
 
 
 
@@ -18,3 +18,4 @@ Setup and compile it yourself(if you dont trust the release).
 
 ## Features
 - Helps with the Melody Hair talisman
+- Lots of Dungeon Features
