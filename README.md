@@ -1,6 +1,6 @@
 <div align="center">
 
-# AutoTerms
+# PianoHelperV2
 
 
 
@@ -17,5 +17,4 @@ Setup and compile it yourself(if you dont trust the release).
 ### Add a ⭐️ if everything works for you❤️
 
 ## Features
-- Secret Waypoints
-- Sends who got what secrets
+- Helps with the Melody Hair talisman
